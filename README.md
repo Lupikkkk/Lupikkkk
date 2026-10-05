@@ -15,7 +15,7 @@ and financial data — from raw datasets to models with real business output.
 **Looker Studio** · **Tableau** · **Excel** · **Git**
 
 ## Currently
-🎓 First year @ SSE Riga (2024–2028)  
+🎓 Penultimate year @ SSE Riga (2024–2028)  
 🔍 Seeking a summer 2026 internship in risk analytics or data science in banking
 
 ## Connect
